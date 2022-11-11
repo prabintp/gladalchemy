@@ -1,9 +1,9 @@
 import './style.scss';
 // import './assets/10.jpeg';
-import gImg1 from './assets/10.jpeg';
-import gImg2 from './assets/09.jpeg';
-import gImg3 from './assets/01.jpeg';
-import gImg4 from './assets/12.jpg';
+import gImg1 from './assets/01.jpg';
+import gImg2 from './assets/02.jpg';
+import gImg3 from './assets/03.jpg';
+import gImg4 from './assets/04.jpg';
 //import './desktop-style.css';
 
 /*import _ from 'lodash';
@@ -27,7 +27,7 @@ import gImg4 from './assets/12.jpg';
     autoPlayYouTubeModal();
     $('.p-wrapper').removeClass('hide');
 
-    var deadline = new Date(2020,0,9,9,30);
+    var deadline = new Date(2022,11,29,9,30);
     initializeClock('clockdiv', deadline);
   });
 
