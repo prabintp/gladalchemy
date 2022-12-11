@@ -2,6 +2,8 @@ body{
     margin: 0;
     padding: 0;
 }
+
+
 .holder {
     position: relative;
   }
@@ -1177,6 +1179,20 @@ html {
   }
   .affix {
     position: fixed;
+  }
+
+  .abt-details{
+  
+    h2{
+      font-family: Pompiere;
+      font-size: 40px;
+      font-weight: bold;
+    }
+    h4{
+      font-family: proxima-nova,Helvetica Neue,sans-serif;
+      font-size: 16px;
+      margin: 5px 0px;
+    }
   }
   
 
